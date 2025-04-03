@@ -1,0 +1,47 @@
+# Parsing and working with Python package versions
+packaging==24.2  
+
+# Platform-specific directories handling (used by Django)
+platformdirs==4.3.7  
+
+# PostgreSQL database adapter for Python (binary version)
+psycopg2-binary==2.9.10  
+
+# JSON Web Token (JWT) handling for authentication
+PyJWT==2.9.0  
+
+# Load environment variables from .env files
+python-dotenv==1.1.0  
+
+# Time zone support for Django
+pytz==2025.2  
+tzdata==2025.2  
+
+# SQL query parsing utilities for Django
+sqlparse==0.5.3  
+
+# Serve static files efficiently in production
+whitenoise==6.9.0  
+
+# Code formatter for Python (used for code consistency)
+yapf==0.43.0  
+
+# ASGI Support for Django (Required for async capabilities)
+asgiref==3.8.1  
+
+# Django Framework (Latest stable version)
+Django==5.1.7  
+
+# Django REST Framework for building APIs
+djangorestframework==3.15.2  
+
+# JWT Authentication for Django REST Framework
+djangorestframework_simplejwt==5.5.0  
+
+# Handling Cross-Origin Resource Sharing (CORS) in Django
+django-cors-headers==4.7.0  
+
+# Production WSGI Server for running Django apps
+gunicorn==23.0.0  
+
+
